@@ -1,4 +1,4 @@
-<img src="docs/assets/schema.png"
+<img src="docs/assets/schema1.png"
      alt="Schéma général"
      width="400">
 
