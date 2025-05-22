@@ -1,3 +1,7 @@
+<img src="docs/assets/schema.png"
+     alt="Schéma général"
+     width="400">
+
 ```pgsql
 +----------------+
 |  inject        |  ← Génère données météo simulées
